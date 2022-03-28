@@ -26,7 +26,7 @@ import java.util.Date;
  * Created by macro on 2019/12/25.
  */
 @Api(tags = "MinioController", description = "MinIO对象存储管理")
-@Controller
+//@Controller
 @RequestMapping("/minio")
 public class MinioController {
 
